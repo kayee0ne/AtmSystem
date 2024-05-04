@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmSystem", "AtmSystem\AtmSystem.csproj", "{F28B2599-A5E6-4353-A6B2-434EA538D23E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F28B2599-A5E6-4353-A6B2-434EA538D23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28B2599-A5E6-4353-A6B2-434EA538D23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28B2599-A5E6-4353-A6B2-434EA538D23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28B2599-A5E6-4353-A6B2-434EA538D23E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
